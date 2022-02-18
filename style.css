@@ -2,4 +2,8 @@
     backgroud-color: #blue;
 }
 
-.menu a {}
+.menu a {
+    color: ffffff;
+    padding: 10px;
+    display: inline-block;
+}
