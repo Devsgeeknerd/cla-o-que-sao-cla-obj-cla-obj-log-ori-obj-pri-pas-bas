@@ -1,5 +1,5 @@
 .menu {
-    backgroud-color: blue;
+    background-color: blue;
 }
 
 .menu a {
@@ -9,6 +9,6 @@
 }
 
 .menu a:hover {
-    backgroud-color: #ffffff;
+    background-color: #ffffff;
     color: blue;
 }
