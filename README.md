@@ -1,64 +1,43 @@
-<!-- TITLE -->
-# Exercício — Criar um Menu Simples
+<!-- Título -->
+# O Que São Classes e Objetos
 
-<!-- TABLE OF CONTENTS -->
-## TABELA DE CONTEÚDO
+***Conteúdo da Aula:***
 
-<!-- * [Vista por cima](#vista-por-cima) -->
-<!--  * [Foto da tela](#foto-da-tela) -->
-<!--  * [Links](#links) -->
-<!-- * [Meu processo](#meu-processo) -->
-<!--  * [Contruido com](#construido-com) -->
-<!--  * [O que aprendi](#o-que-aprendi) -->
-<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  * [Recusos úteis](#recursos-úteis) -->
-<!-- * [Autor](#autor) -->
-<!-- * [Agradecimentos](#agradecimentos) -->
-* [Informações](#informações)
+Em programação orientada a objetos, uma classe é uma estrutura que descreve um conjunto de atributos (variáveis) e métodos (funções) que uma entidade pode ter.
 
-<!-- OVERVIEW -->
-<!-- ## VISTA POR CIMA -->
+Em outras palavras, a classe é uma espécie de "modelo" que define como os objetos dessa classe devem ser estruturados e como eles devem se comportar.
 
-<!-- SCREENSHOT -->
-<!-- ### FOTO DA TELA -->
+Por exemplo, imagine uma classe "Carro" que define as propriedades de um carro, como a marca, modelo, ano, cor, etc., e também define os métodos que um carro pode ter, como acelerar, frear, virar, etc.
 
-<!-- LINKS -->
-<!-- ### LINKS -->
+A classe "Carro" é apenas uma definição, ela não existe na memória do computador como um objeto.
 
-<!-- MY PROCESS -->
-<!-- ## MEU PROCESSO -->
+Um objeto, por sua vez, é uma instância (ou cópia) de uma classe que é criada na memória do computador em tempo de execução.
 
-<!-- BUILT WITH -->
-<!-- ### CONSTRUIDO COM -->
+Cada objeto tem seus próprios valores para os atributos da classe e pode executar seus próprios métodos.
 
-<!-- WHAT I LEARNED -->
-<!-- ### O QUE APRENDI -->
+Ou seja, enquanto a classe é uma descrição genérica de uma entidade, o objeto é a representação específica dessa entidade.
 
-<!-- CONTINUED DEVELOPMENT -->
-<!-- ### DESENVOLVIMENTO CONTÍNUO -->
+Continuando o exemplo do carro, podemos criar vários objetos da classe "Carro", cada um com suas próprias características (marca, modelo, ano, cor, etc.) e métodos (acelerar, frear, virar, etc.).
 
-<!-- USEFUL RESOURCES -->
-<!-- ### RECURSOS ÚTEIS -->
+Cada objeto de "Carro" seria uma representação única de um carro real, com suas próprias propriedades e comportamentos.
 
-<!-- AUTHOR -->
-<!-- ## AUTOR -->
+Em resumo, uma classe define as propriedades e comportamentos que um objeto pode ter, enquanto o objeto é uma instância específica dessa classe, criada em tempo de execução.
 
-<!-- ACKNOWLEDGMENTS -->
-<!-- ## AGRADECIMENTOS -->
+A orientação a objetos permite que os programadores criem modelos mais abstratos e genéricos, tornando o código mais flexível e reutilizável.
 
-<!-- INFORMATION -->
-## INFORMAÇÕES
+<!-- Informações -->
+## &#8505; Informações
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fexe-cri-men-sim&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-o-que-sao-cla-obj-cla-obj-log-ori-obj-pri-pas-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/exe-cri-men-sim?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-o-que-sao-cla-obj-cla-obj-log-ori-obj-pri-pas-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/exe-cri-men-sim?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-o-que-sao-cla-obj-cla-obj-log-ori-obj-pri-pas-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/exe-cri-men-sim?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-o-que-sao-cla-obj-cla-obj-log-ori-obj-pri-pas-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/exe-cri-men-sim?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-o-que-sao-cla-obj-cla-obj-log-ori-obj-pri-pas-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/exe-cri-men-sim?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-o-que-sao-cla-obj-cla-obj-log-ori-obj-pri-pas-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
